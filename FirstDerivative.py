@@ -1,3 +1,4 @@
+# This program will compute the first derivative of a given polynomial function.
 import re
 class Derive:
 
